@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meme Generator</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="meme_generator">Meme Generator</string>
+    <string name="dialog_message">Dialog Message</string>
+
+</resources>
